@@ -1,0 +1,19 @@
+body {
+    background-image: "/images/traveling-solo.jpg";
+    background-color: #000000;
+    font-family: "Helvetica", sans-serif;
+	color: #fff;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+p {
+	font-size: 18px;
+}
+
+#slogan {
+	text-decoration: underline;
+	font-size: 25px;
+}
