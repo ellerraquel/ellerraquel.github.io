@@ -1,18 +1,35 @@
+* {margin:0;padding:0;box-sizing:border-box;}
 body {
-    background-image: url("traveling-solo.jpg");
     font-family: "Helvetica", sans-serif;
-	color: #fff;
+	color: #333;
+	font-size: 18px;
 }
-
+section {
+	padding: 5em 0;
+}
 h1 {
-	font-size: 40px;
+	font-size: 3em;
 }
 
 p {
-	font-size: 18px;
+	margin-top:1em;
 }
-
+ul {
+	padding-left:1.25em;
+}
 #slogan {
 	text-decoration: underline;
-	font-size: 25px;
+	font-size: 1.5em;
+}
+#intro {
+	background-image: url("../images/traveling-solo.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	color:#fff;
+	padding: 20em 0 0 10em;
+	height: 90vh;
+}
+#about {
+	margin:auto;
+	width: 60em;
 }
