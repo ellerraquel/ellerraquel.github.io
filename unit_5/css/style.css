@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Damion|Source+Sans+Pro');
+
+/* {margin:0;padding:0;box-sizing:border-box;}*/
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+	color: #333;
+	font-size: 18px;
+}
+section {
+	padding: 5em 0;
+}
+
+h1 {
+    font-family: 'Damion', cursive;
+	font-size: 6em;
+}
+
+p {
+	margin-top:1em;
+}
+ul {
+	padding-left:1.25em;
+}
+#slogan {
+	font-family: 'Source Sans Pro', sans-serif;
+	text-decoration: underline;
+	font-size: 1.5em;
+}
+#intro {
+	background-image: url("../images/traveling-solo.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	color:#fff;
+	padding: 20em 0 0 10em;
+	height: 90vh;
+}
+#about {
+    font-family: 'Source Sans Pro', sans-serif;
+	margin:auto;
+	width: 60em;
+}
+
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
